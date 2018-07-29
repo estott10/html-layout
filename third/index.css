@@ -1,0 +1,58 @@
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(211, 209, 209);
+    display: block;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    background-color: rgba(42, 128, 226, 0.925);
+    display: block;
+    position: absolute;
+    margin: 10px 20px;
+}
+
+.light-gray {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(240, 238, 238);
+    display: block;
+    padding-top: 40px;
+}
+
+.blue {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(42, 128, 226, 0.925);
+    display: block;
+}
+
+.aquamarine {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(121, 241, 201);
+    display: block;
+}
+
+.olive {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(206, 228, 147);
+    display: block;
+}
+
+.mustard-yellow{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(221, 221, 40);
+    display: block;
+}
+
+p {
+    margin: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
